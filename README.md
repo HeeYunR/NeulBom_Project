@@ -43,6 +43,8 @@
 - **커뮤니티** : 입주상담, 문의게시판, 자유게시판
 
 ![1-1  메인화면](https://github.com/HeeYunR/NeulBom_Project/assets/126316288/05c56d7d-641f-488e-9ada-aeeca041170d)
+![1-2  메인화면](https://github.com/HeeYunR/NeulBom_Project/assets/126316288/e3dcf283-5d63-4e7e-9598-b76d434030e9)
+![1-3  메인화면](https://github.com/HeeYunR/NeulBom_Project/assets/126316288/f3016f37-4abe-47a5-a884-b647502dc550)
 
 
 ### 📘 클라이언트 기능
